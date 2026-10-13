@@ -15,3 +15,5 @@
 ## 4. 运行命令
 ```bash
 python infer.py --weights best.pt --source raw_video.mp4 --output runs/infer/result.mp4 --conf 0.25 --device 0
+## 8. 开发日志
+- 2026年10月13日：完成项目初始化，等待视频测试。
