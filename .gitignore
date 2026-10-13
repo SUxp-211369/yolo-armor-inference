@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境（绝对不要上传，太大了）
+.venv/
+venv/
+
+# 权重文件、原始视频、结果视频（作业要求不能传上 Git）
+best.pt
+*.pt
+*.mp4
+*.avi
+*.mov
+runs/

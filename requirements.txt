@@ -1,0 +1,4 @@
+ultralytics==8.4.175
+opencv-python==5.0.0.93
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
